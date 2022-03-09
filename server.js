@@ -8,6 +8,8 @@ const fs = require('fs');
 
 const app = express();
 
+app.use(express.static('public'));
+
 app.use(bodyParser.json());
 
 app.get('/', (req,res)=>{
