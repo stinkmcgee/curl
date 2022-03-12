@@ -2,7 +2,6 @@ const express = require('express');
 const bodyParser = require('body-parser');
 
 const port = 443;
-const md5 = require('md5');
 const https = require('https');
 const fs = require('fs');
 

@@ -1,8 +1,8 @@
 //© 2021 Sean Murdock
 
-let userName = "";
-let password = "";
-let verifypassword = "";
+let userName = "maddiec";
+let password = "gross";
+let verifypassword = "gross";
 let passwordRegEx=/((?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%!]).{6,40})/;
 
 function setusername(){
@@ -56,7 +56,7 @@ function userlogin(){
         success: function(data) {
             window.location.href = "/timer.html#"+data;//add the token to the url
         },
-        contentType: "application/text",
+        contentType: "application/json",
         dataType: 'text'
     });
 
