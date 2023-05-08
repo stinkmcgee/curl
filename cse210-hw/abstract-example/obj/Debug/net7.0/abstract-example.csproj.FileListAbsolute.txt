@@ -1,0 +1,15 @@
+/Users/Admin/cse210-hw/abstract-example/bin/Debug/net7.0/abstract-example
+/Users/Admin/cse210-hw/abstract-example/bin/Debug/net7.0/abstract-example.deps.json
+/Users/Admin/cse210-hw/abstract-example/bin/Debug/net7.0/abstract-example.runtimeconfig.json
+/Users/Admin/cse210-hw/abstract-example/bin/Debug/net7.0/abstract-example.dll
+/Users/Admin/cse210-hw/abstract-example/bin/Debug/net7.0/abstract-example.pdb
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/abstract-example.csproj.AssemblyReference.cache
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/abstract-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/abstract-example.AssemblyInfoInputs.cache
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/abstract-example.AssemblyInfo.cs
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/abstract-example.csproj.CoreCompileInputs.cache
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/abstract-example.dll
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/refint/abstract-example.dll
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/abstract-example.pdb
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/abstract-example.genruntimeconfig.cache
+/Users/Admin/cse210-hw/abstract-example/obj/Debug/net7.0/ref/abstract-example.dll
